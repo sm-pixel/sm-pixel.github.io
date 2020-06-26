@@ -8,7 +8,7 @@ body {
 
 #header {
     color: lightpink;
-    /* font-family: 'Diplomata', cursive; */
+    font-family: 'Diplomata', cursive;
    
 }
 
@@ -31,9 +31,10 @@ body {
 #repos {
     color: lightpink;
 }
-/* .text.container {
-    text-align: center;
-} */
+
+.text.container .left.floated.image {
+    margin: 2em 2em 2em -4em;
+}
 
 .ui.footer.segment {
     margin: 2em 0em 0em;
