@@ -1,7 +1,7 @@
 # Portfolio
 
 # Description
-A website that showcases HTML, CSS, and Bootstrap.
+A website about myself that showcases skills, projects and assignments and contact information.
 
 # Technologies
 * HTML5
