@@ -25,6 +25,10 @@ body {
     margin-right: 1.5em;
 }
 
+#biotext {
+    font-size: large;
+}
+
 .block.header {
     color: pink;
 }
